@@ -16,7 +16,7 @@
       {"id":6, "app":"com.get.client"}
     ],
     "free":[
-      {"id":0, "file":0, "city":"SwitzerlandA","country":"Switzerland","image":"switzerland","ip":"91.132.136.83","active":"true","signal":"a"}
+      {"id":0, "file":0, "city":"SwitzerlandA","country":"Switzerland","image":"switzerland","ip":"91.132.136.83","active":"true","signal":"a"},
       {"id":1, "file":1, "city":"SwitzerlandB","country":"Switzerland","image":"switzerland","ip":"212.102.36.150","active":"true","signal":"a"}    
     ]
   }
